@@ -4,4 +4,4 @@ sportsmonkey
 sportsmonkey
 
 
-View sportsmonkey at sportsmonkey.co.nf
+View sportsmonkey at http://sportsmonkey.co.nf
